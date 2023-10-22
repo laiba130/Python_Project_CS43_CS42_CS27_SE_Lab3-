@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 class LibraryCatalog:
     #From here partner a (Alina khan = NIM-BSCS-2021-42)
     def __init__(self):
@@ -275,7 +274,7 @@ class LibraryCatalog:
     },
         }
         self.checkout_history = []
-=======
+        
     #  #Partner b (Laiba Fatima = NIM-BSCS-2021-43) had done her part here
 
     # def book_addition(self):
@@ -384,4 +383,3 @@ class LibraryCatalog:
     #     else:
     #         if book_found_flag is False:
     #             print("This book is not in our library")
->>>>>>> partner_b_branch
